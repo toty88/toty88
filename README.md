@@ -1,4 +1,4 @@
-# Hi there, I'm Edgardo Lorenzo (toty88) 👋
+# Hi there, I'm Edgardo Lorenzo 👋
 
 Welcome to my GitHub profile! I love to work on a variety of projects, focusing on developing efficient and innovative software solutions.
 
