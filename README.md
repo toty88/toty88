@@ -4,9 +4,10 @@ Welcome to my GitHub profile! I love to work on a variety of projects, focusing 
 
 ## 🚀 About Me
 
+- 💼 I’ve been working as a React and TypeScript developer for the past 3 years.
 - 🔭 I’m currently working on improving my skills in TypeScript and modern web development.
 - 🌱 I’m always learning new technologies and methodologies to enhance my coding skills.
-- 💬 Ask me about JavaScript, TypeScript, and front-end development.
+- 💬 Ask me about React, TypeScript, and front-end development.
 
 ## 📈 GitHub Stats
 
