@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I love to work on a variety of projects, focusing 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash)
 
 
-## 📂 My Repositories
+## 📂 My Latest Repositories
 
 ### [simple-design-system-util](https://github.com/toty88/simple-design-system-util)
 A utility to understand and build a well-structured design system.
@@ -45,5 +45,6 @@ A project aimed at creating resources and tools for web developers.
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Edgardo Lorenzo]([https://www.linkedin.com/in/edgardo-lorenzo](https://www.linkedin.com/in/edgardo-lorenzo-81819a39/?trk=opento_sprofile_topcard))
+- LinkedIn: [Edgardo Lorenzo](https://www.linkedin.com/in/edgardo-lorenzo-81819a39/?trk=opento_sprofile_topcard)
+
 
