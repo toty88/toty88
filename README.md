@@ -20,6 +20,14 @@ Welcome to my GitHub profile! I love to work on a variety of projects, focusing 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier)
+![Husky](https://img.shields.io/badge/-Husky-29BEB0?style=flat-square&logo=husky)
+![Commitlint](https://img.shields.io/badge/-Commitlint-000000?style=flat-square&logo=commitlint)
+![Unit Test](https://img.shields.io/badge/-Unit_Test-15C213?style=flat-square&logo=testing-library)
+![Mutation Testing](https://img.shields.io/badge/-Mutation_Testing-262626?style=flat-square&logo=stryker)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash)
+
 
 ## 📂 My Repositories
 
@@ -31,9 +39,6 @@ A collection of utilities for sorting algorithms written in TypeScript.
 
 ### [hooks-util](https://github.com/toty88/hooks-util)
 Useful React hooks for various purposes.
-
-### [tp_laboratorio_2](https://github.com/toty88/tp_laboratorio_2)
-Repository for laboratory exercises and projects.
 
 ### [elite-web-developer](https://github.com/toty88/elite-web-developer)
 A project aimed at creating resources and tools for web developers.
