@@ -47,4 +47,4 @@ A project aimed at creating resources and tools for web developers.
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Edgardo Lorenzo](www.linkedin.com/in/edgardolor)
+- LinkedIn: [Edgardo Lorenzo](https://www.linkedin.com/in/edgardolor)
